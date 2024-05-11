@@ -1,4 +1,4 @@
-### Projeto de teste para aprofundar o conhecimento em libs de Python via Steamlit
+### Projeto de teste para aprofundar o conhecimento em libs de Python via Streamlit
 
 1- No terminal, iniciar um ambiente virtual VENV via linha de comando: 
 ```bash
